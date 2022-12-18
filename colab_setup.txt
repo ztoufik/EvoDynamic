@@ -1,0 +1,4 @@
+import sys
+!git clone https://github.com/SocratesNFR/EvoDynamic.git
+sys.path.append("./EvoDynamic") 
+print(sys.path)#make sure cloned EvoDynamic folder is in the sys path list
